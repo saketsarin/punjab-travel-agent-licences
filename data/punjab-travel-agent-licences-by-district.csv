@@ -1,0 +1,26 @@
+district,agents,scanned_register,validity_stated,valid,expired,cancelled,pct_valid_of_stated,register_published,fetched,source_url
+Jalandhar,1900,no,1382,716,341,325,52,2026-07-01,2026-11-19,https://cdn.s3waas.gov.in/s30c74b7f78409a4022a2c4c5a5ca3ee19/uploads/2026/07/17830740293977.pdf
+Ludhiana,1499,no,0,,,,,2024-04-01,2026-11-19,https://cdn.s3waas.gov.in/s363923f49e5241343aa7acb6a06a751e7/uploads/2024/04/2024041227.pdf
+Patiala,799,no,786,397,361,8,51,2024-12-01,2026-11-19,https://cdn.s3waas.gov.in/s38cb22bdd0b7ba1ab13d742e22eed8da2/uploads/2024/12/2024120492.pdf
+Moga,789,no,789,370,175,244,47,2026-08-01,2026-11-19,https://cdn.s3waas.gov.in/s3b7bb35b9c6ca2aee2df08cf09d7016c2/uploads/2026/08/17863577513513.pdf
+Amritsar,473,no,399,154,209,33,39,2025-03-01,2026-11-19,https://cdn.s3waas.gov.in/s3c3992e9a68c5ae12bd18488bc579b30d/uploads/2025/03/2025031243.pdf
+Chandigarh (UT),451,no,0,,,,,2026-08-07,2026-11-19,https://portal.chandigarhpolice.gov.in/public/attachments/uploads/files/2026-08-07/hf-ee86185d3fc241cebe9098cbee074eca-Agents%20List%20-%2014.07.2026.pdf
+Mohali (SAS Nagar),441,no,440,419,21,0,95,2026-06-01,2026-11-19,https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2026/06/17818564715129.pdf
+Gurdaspur,391,no,390,242,138,10,62,2026-11-01,2026-11-19,https://cdn.s3waas.gov.in/s330bb3825e8f631cc6075c0f87bb4978c/uploads/2026/11/17937791328314.pdf
+Sangrur,352,no,352,176,135,41,50,2026-06-01,2026-11-19,https://cdn.s3waas.gov.in/s3eb6fdc36b281b7d5eabf33396c2683a2/uploads/2026/06/17810621298762.pdf
+Shaheed Bhagat Singh Nagar (Nawanshahr),287,no,287,155,36,96,54,2026-11-01,2026-11-19,https://cdn.s3waas.gov.in/s308d98638c6fcd194a4b1e6992063e944/uploads/2026/11/17944661521748.pdf
+Barnala,211,no,208,74,130,4,36,2023-09-01,2026-11-19,https://cdn.s3waas.gov.in/s32291d2ec3b3048d1a6f86c2c4591b7e0/uploads/2023/09/2023092768.pdf
+Ferozepur,203,no,203,116,57,30,57,2025-02-01,2026-11-19,https://cdn.s3waas.gov.in/s3a8c88a0055f636e4a163a5e3d16adab7/uploads/2025/02/2025021894.pdf
+Rupnagar (Ropar),174,no,10,0,10,0,0,2024-08-01,2026-11-19,https://cdn.s3waas.gov.in/s3e2c0be24560d78c5e599c2a9c9d0bbd2/uploads/2024/08/2024081650.pdf
+Fatehgarh Sahib,114,no,114,82,32,0,72,2024-09-01,2026-11-19,https://cdn.s3waas.gov.in/s36aca97005c68f1206823815f66102863/uploads/2024/09/2024092443.pdf
+Sri Muktsar Sahib,109,no,109,23,84,2,21,2023-01-01,2026-11-19,https://cdn.s3waas.gov.in/s3d07e70efcfab08731a97e7b91be644de/uploads/2023/01/2023010652.pdf
+Kapurthala,87,yes,,,,,,,2026-08-20,https://nri.punjab.gov.in/media/documents/Iielts_agents_kapurthala.pdf
+Bathinda,77,yes,,,,,,2024-03-01,2026-07-30,https://cdn.s3waas.gov.in/s31ff8a7b5dc7a7d1f0ed65aaa29c04b1e/uploads/2024/03/2024031998.pdf
+Panchkula (Haryana),75,yes,,,,18,,2019-11-01,2026-08-20,https://cdn.s3waas.gov.in/s36e7b33fdea3adc80ebd648fffb665bb8/uploads/2019/11/2019110493.pdf
+Tarn Taran,61,yes,,,,,,2025-01-01,2026-08-20,https://cdn.s3waas.gov.in/s3c058f544c737782deacefa532d9add4c/uploads/2025/01/2025011725.pdf
+Mansa,48,yes,,,,,,2023-05-01,2026-08-20,https://cdn.s3waas.gov.in/s3cdc0d6e63aa8e41c89689f54970bb35f/uploads/2023/05/2023051692.pdf
+Faridkot,47,yes,,,,8,,2025-04-01,2026-07-30,https://cdn.s3waas.gov.in/s3ca9c267dad0305d1a6308d2a0cf1c39c/uploads/2025/04/2025040134.pdf
+Hoshiarpur,45,yes,,,,3,,2023-04-01,2026-07-30,https://cdn.s3waas.gov.in/s3c5ab0bc60ac7929182aadd08703f1ec6/uploads/2023/04/2023040627.pdf
+Malerkotla,38,no,38,38,0,0,100,2025-05-01,2026-11-19,https://cdn.s3waas.gov.in/s35ec91aac30eae62f4140325d09b9afd0/uploads/2025/05/2025051928.pdf
+Pathankot,15,yes,,,,3,,2024-12-01,2026-07-30,https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2024/12/2024122427.pdf
+Fazilka,7,yes,,,,,,2023-03-01,2026-08-20,https://cdn.s3waas.gov.in/s33def184ad8f4755ff269862ea77393dd/uploads/2023/03/2023030392.pdf
